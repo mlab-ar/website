@@ -15,9 +15,9 @@
         <br/>
         Also we like to experiment with video-games, free software and hardware =)
         <br/>
-        You can contact us via <a href="mailto:contact@thebit.ar">mail</a> or via whatsapp
+        You can contact us via <a href="mailto:contact@thebit.ar">mail</a> or via <a href="#">whatsapp</a>
         <br/>
-        Wanna follow us? sure! we are on <a href="https://github.com/thebitar" target="_blank">Github</a>
+        Wanna follow us? sure! we are on <a href="https://github.com/thebitar" target="_blank">Github</a>, <a href="#">Linkedin</a> & <a href="#">Twitter</a>.
+        <br/>
+        See you soon my friend.
     </p>
-
-    <p>Cheers!</p>
