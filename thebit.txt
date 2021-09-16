@@ -7,15 +7,18 @@
     <span id="k">We are The Bit, a software cooperative that builds solutions bit by bit...</span>
     <p>
         We are software developers, geeks, nerds and hackers who are tweaking with technology since we were kids eons ago and we love it <3
-        <br/>
+
         So now, we work together to provide the following services:
+        
         Full-stack web development, Ecommerce development, native desktop and mobile app development, CRM, CMS and ERP implementations, technical development for physical computing and experimental applications, product strategy, data analytics research and modeling, platform architecture and market research and analysis, technical leadership, project management, capacitation and workshop development and execution.
-        <br/>
-        Also we like to experiment with video-games, free software and hardware =)
-        <br/>
-        You can contact us via <a href="mailto:contact@thebit.ar">mail</a> or via <a href="#">whatsapp</a>
-        <br/>
+        
+        Also we like to experiment with videogames, free software and hardware =)
+
+        Our main aproach to problem solving are "Perfect is the enemy of good" and "We make it work, no matter what or how".
+        <hr/>
+        You can contact us via <a href="mailto:contact@thebit.ar">mail</a> or <a href="#">whatsapp</a>.
+        
         Wanna follow us? sure! we are on <a href="https://github.com/thebitar" target="_blank">Github</a>, <a href="#">Linkedin</a> & <a href="#">Twitter</a>.
-        <br/>
-        More info? No problema, <a href="#">Download our brochure</a>
+        
+        More info? No problem, <a href="#">Download our brochure</a>.
     </p>
