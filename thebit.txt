@@ -2,13 +2,9 @@
     <font color="red">T</font><font color="orange">H</font><font color="yellow">E</font> <font color="green">B</font><font color="pink">I</font><font color="blue">T</font> COOP
 </h1>
 <h3>
-
     <span id="a">the@bit</span>:<span id="b">~</span><span id="c">$</span> cd theBit/About_Us
-
     <span id="a">the@bit</span>:<span id="b">~</span><span id="c">$</span> cat thebit.txt<br/>
-
     <span id="k">We are The Bit, a software cooperative that builds solutions bit by bit...</span>
-
     <p>
         We are software developers, geeks, nerds and hackers and we are tweaking with technology since we were kids eons ago and we love it <3
         <br/>
