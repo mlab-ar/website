@@ -14,7 +14,7 @@
         
         Also we like to experiment with videogames, free software and hardware =)
 
-        Our main aproach to problem solving are "Perfect is the enemy of good" and "We make it work, no matter what or how".
+        Our main aproach to problem solving is "Perfect is the enemy of good" and "We make it work, no matter what or how".
         <hr/>
         You can contact us via <a href="mailto:contact@thebit.ar">mail</a> or <a href="#">whatsapp</a>.
         
