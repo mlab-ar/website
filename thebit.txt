@@ -11,15 +11,13 @@
         We are software developers, geeks, nerds and hackers and we are tweaking with technology since we were kids eons ago and we love it <3
         <br/>
         So now, we work together to provide the following services:
+        Full-stack web development, Ecommerce development, native desktop and mobile app development, CRM, CMS and ERP implementations, technical development for physical computing and experimental applications, product strategy, data analytics research and modeling, platform architecture and market research and analysis, technical leadership, project management, capacitation and workshop development and execution.
         <br/>
-
+        Also we like to experiment with video-games, free software and hardware =)
+        <br/>
+        You can contact us via <a href="mailto:contact@thebit.ar">mail</a> or via whatsapp
+        <br/>
+        Wanna follow us? sure! we are on <a href="https://github.com/thebitar" target="_blank">Github</a>
     </p>
-    <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p>
-    <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p>
-    <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
-
-    You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
 
     <p>Cheers!</p>
-
-</h3>
