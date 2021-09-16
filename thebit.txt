@@ -17,5 +17,5 @@
         <br/>
         Wanna follow us? sure! we are on <a href="https://github.com/thebitar" target="_blank">Github</a>, <a href="#">Linkedin</a> & <a href="#">Twitter</a>.
         <br/>
-        More info? Sure!, <a href="#">Download our brochure</a>
+        More info? No problema, <a href="#">Download our brochure</a>
     </p>
