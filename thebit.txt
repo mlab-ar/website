@@ -22,5 +22,5 @@
         
         More info? No problem, <a href="#">Download our brochure</a>.
 
-        Also, you can look up our work in <a href="https://www.behance.net/thebitcoop" target="_blank">Behance</a>
+        Also, you can look up our work in <a href="https://www.behance.net/thebitar" target="_blank">Behance</a>
     </p>
