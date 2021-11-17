@@ -20,7 +20,7 @@
         
         Wanna follow us? sure! we are on <a href="https://github.com/thebitar" target="_blank">Github</a>, <a href="https://www.linkedin.com/company/thebitar" target="_blank">Linkedin</a> & <a href="https://twitter.com/thebitcoop" target="_blank">Twitter</a>.
         
-        More info? No problem, <a href="./brochure.pdf">Download our brochure</a>.
+        More info? No problem, <a href="./brochure.pdf" target="_blank">Download our brochure</a>.
 
         Also, you can look up our work in <a href="https://www.behance.net/thebitar" target="_blank">Behance</a>
     </p>
