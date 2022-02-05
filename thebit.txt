@@ -18,7 +18,7 @@
         <hr/>
         You can contact us via <a href="mailto:contact@thebit.ar">mail</a>, <a href="https://wa.me/541121805256" target="_blank">whatsapp</a> or <a href="https://telegram.me/thebitcoop" target="_blank">telegram</a>.
         
-        Wanna follow us? sure! we are on <a href="https://github.com/thebitar" target="_blank">Github</a>, <a href="https://www.linkedin.com/company/thebitar" target="_blank">Linkedin</a>, <a href="https://instagram.com/thebitcoop">Instagram</a>, <a href="https://twitter.com/thebitcoop" target="_blank">Twitter</a>.
+        Wanna follow us? sure! we are on <a href="https://github.com/thebitar" target="_blank">Github</a>, <a href="https://www.linkedin.com/company/thebitar" target="_blank">Linkedin</a>, <a href="https://instagram.com/thebitcoop">Instagram</a>, <a href="https://facebook.com/thebitcoop">Facebook</a> & <a href="https://twitter.com/thebitcoop" target="_blank">Twitter</a>.
         
         More info? No problem, <a href="./brochure.pdf" target="_blank">Download our brochure</a>.
 
